@@ -25,3 +25,6 @@ Performance optimization and security are critical aspects of this platform. Rea
 
 In conclusion, this Real-Time Collaborative Document Editor showcases my ability to develop modern, scalable, and highly interactive web applications. Combining powerful technologies such as React.js, Vue.js, Node.js, Django, MongoDB, and PostgreSQL, the platform delivers an engaging, real-time collaborative experience. This project highlights both my technical expertise and my ability to design and implement complex, full-stack solutions.
 
+OUT PUT:
+![Image](https://github.com/user-attachments/assets/f8609821-cd79-4a26-8ef6-0e6e152dda7c)
+
